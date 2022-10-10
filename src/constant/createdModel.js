@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import { brandSchema } from "../models/brand.js";
-import { inventorySchema } from "../models/Inventory.js";
+import { inventorySchema } from "../models/inventory.js";
 import { stateEquipmentSchema } from "../models/stateEquipment.js";
 import { typeEquipmentSchema } from "../models/typeEquipment.js";
 import { userSchema } from "../models/user.js";
